@@ -1,0 +1,5 @@
+event,threshold (degC),"return period, PI (yr)","return period, current (yr)",probability ratio,PR 5-95%,intensity change (degC)
+1997-98,2.42,171,44,3.9,2.5-5.9,0.59
+2015-16,2.48,198,49,4.0,2.5-6.2,0.6
+1982-83,2.65,323,73,4.4,2.6-7.3,0.62
+2026-27 fcst,3.16,1497,242,6.2,3.1-15.2,0.67

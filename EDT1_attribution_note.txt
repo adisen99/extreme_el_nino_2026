@@ -1,0 +1,1 @@
+Common-shape GPD, threshold q=0.85: shape c=-0.087; scale 0.493 (pre-industrial, n=1182 exceedances) and 0.547 (current, n=133); scale ratio 1.109. Pre-industrial from piControl (n=7875 ENSO years), current from historical+ssp245/rcp45 2000-2050 (n=885), 18 models. Ranges are 5-95% from a model-block bootstrap (1000 resamples).
