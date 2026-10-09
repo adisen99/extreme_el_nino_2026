@@ -1,0 +1,1 @@
+Probability ratios for the forecast 2026/27 magnitude (3.23 °C) under alternative fitting procedures, model subsets and current-climate windows. Ranges are 5th–95th percentiles from a model-block bootstrap with 1000 resamples, except the leave-one-out row, which gives the range of central estimates across the 18 single-model exclusions.

@@ -1,0 +1,17 @@
+group,test,PR,range
+GPD threshold,q = 0.75,8.3,4.0–19.9
+GPD threshold,q = 0.80,8.2,3.7–19.5
+GPD threshold,q = 0.85 (main analysis),6.5,3.2–17.8
+GPD threshold,q = 0.90,6.5,2.7–18.8
+Distribution,Independently fitted shapes,4.1,1.0–14.6
+Distribution,GEV fitted to block maxima,20.4,5.3–124.6
+Model subset,CMIP6 only (n=8),6.6,3.6–15.2
+Model subset,CMIP5 only (n=10),5.4,0.5–72.4
+Model subset,Excluding MIROC-ESM variants (n=16),5.3,2.7–13.9
+Model subset,Excluding MIROC4h (n=17),6.4,3.0–15.8
+Model subset,Excluding NESM3 (n=17),6.9,3.2–18.4
+Model subset,Leave-one-out range,6.5,5.3–10.1
+Current-climate window,2000–2030,7.3,3.8–17.1
+Current-climate window,2010–2040,6.9,4.1–24.9
+Current-climate window,1990–2040,6.2,3.3–17.7
+Current-climate window,2015–2050,8.2,3.8–24.4
